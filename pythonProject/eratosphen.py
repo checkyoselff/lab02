@@ -17,3 +17,8 @@ while i <= n:
 a = set(a)
 a.remove(0)
 print(a)
+
+print ("{")
+
+import json
+from colorama import Fore, Style
